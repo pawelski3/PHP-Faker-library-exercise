@@ -1,0 +1,17 @@
+<style>
+
+.right{
+    //color: red;
+    text-align: right;
+    //border: 2px solid red;
+    font-style:normal;
+}
+
+.cytat{
+    font-style:italic;
+    text-align: center;
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
